@@ -254,7 +254,7 @@
 {
 "type":"3",
 "name":"VTVCab16-BóngĐáTV",
-"linkvideo":"http://m.tivi12h.net/vtvplay.php?id=bondatvhd,http://cdn.xemtiviso.com/vtvcab.php?id=bongdatv,http://m.tivi12h.net/bongdatv-3.php,http://m.tivi12h.net/bongdatv.php,http://m.tivi12h.net/bongdatv-2.php,http://m.tivi12h.net/bongdatv-4.php,http://m.tivi12h.net/bongdatv-5.php",
+"linkvideo":"http://m.tivi12h.net/bongdatv-3.php,http://m.tivi12h.net/vtvplay.php?id=bondatvhd,http://cdn.xemtiviso.com/vtvcab.php?id=bongdatv,http://m.tivi12h.net/bongdatv.php,http://m.tivi12h.net/bongdatv-2.php,http://m.tivi12h.net/bongdatv-4.php,http://m.tivi12h.net/bongdatv-5.php",
 "linkweb":"http://www.tivi12h.net/2015/08/bong-da-tv.html",
 "love":"0"
 },
