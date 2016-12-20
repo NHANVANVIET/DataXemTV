@@ -184,7 +184,7 @@
 {
 "type":"3",
 "name":"VTVCab3-ThểThaoTV",
-"linkvideo":"http://m.tivi12h.net/vtvplay.php?id=thethaotvhd,http://cdn.xemtiviso.com/vtvcab.php?id=thethaotv,http://m.tivi12h.net/thethaotv-3.php,http://m.tivi12h.net/thethaotv.php,http://m.tivi12h.net/thethaotv-2.php,http://m.tivi12h.net/thethaotv-4.php,http://m.tivi12h.net/thethaotv-5.php",
+"linkvideo":"http://m.tivi12h.net/thethaotv-3.php,http://m.tivi12h.net/vtvplay.php?id=thethaotvhd,http://cdn.xemtiviso.com/vtvcab.php?id=thethaotv,http://m.tivi12h.net/thethaotv.php,http://m.tivi12h.net/thethaotv-2.php,http://m.tivi12h.net/thethaotv-4.php,http://m.tivi12h.net/thethaotv-5.php",
 "linkweb":"http://www.tivi12h.net/2015/08/the-thao-tv.html",
 "love":"0"
 },
