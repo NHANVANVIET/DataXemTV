@@ -3,7 +3,7 @@
 "type":"1",
 "name":"XEM TIVI+GAME ONLINE+NGHE RADIO",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
 "linkdes":"0"
 },
@@ -11,7 +11,7 @@
 "type":"1",
 "name":"DẠY NẤU ĂN - LÀM BÁNH",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
 "linkdes":"0"
 },
@@ -27,14 +27,14 @@
 "type":"1",
 "name":"HỌC TIẾNG ANH TỐT NHẤT",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0"
 },
 {
 "type":"1",
 "name":"NHẬT KÝ BÍ MẬT",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
 "linkdes":"0"
 },
@@ -42,7 +42,7 @@
 "type":"1",
 "name":"SOI KẾT QUẢ TÍNH SỐ RA MIỀN BẮC",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
 "linkdes":"0"
 },
@@ -50,7 +50,7 @@
 "type":"1",
 "name":"TẠO ALBUM NHẠC - NGHE HẸN GIỜ",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
 "linkdes":"0"
 },
@@ -58,7 +58,7 @@
 "type":"1",
 "name":"TÌM ĐỊA ĐIỂM NHÀ NGHỈ,ATM,BUS...",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
 "linkdes":"0"
 },
@@ -66,7 +66,7 @@
 "type":"1",
 "name":"XEM BÓI TỔNG HỢP TÌNH YÊU+TỬ VI",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
 "linkdes":"0"
 },
@@ -74,7 +74,7 @@
 "type":"1",
 "name":"XEM NGÀY TỐT HÔM NAY",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
 "linkdes":"0"
 },
@@ -82,7 +82,7 @@
 "type":"1",
 "name":"LUẬT GIAO THÔNG MỚI NHẤT+THI LẤY KQ",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
 "linkdes":"0"
 },
@@ -90,7 +90,7 @@
 "type":"1",
 "name":"GAME TRÍ NHỚ-GAME TRÍ TUỆ",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
 "linkdes":"0"
 },
@@ -98,7 +98,7 @@
 "type":"1",
 "name":"TRUYỆN TRANH DẾ MÈN CHO BÉ",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
 "linkdes":"0"
 },
