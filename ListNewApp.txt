@@ -19,7 +19,7 @@
 "type":"1",
 "name":"ĐỌC BÁO TỔNG HỢP",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
-"linkimgicon":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
+"linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
 "linkdes":"0"
 },
