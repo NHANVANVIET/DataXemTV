@@ -2,14 +2,14 @@
 {
 "type":"1",
 "name":"VTV1",
-"linkvideo":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png",
+"linkvideo":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkweb":"http://www.tivi12h.net/2015/07/kenh-vtv1.html",
 "love":"0"
 },
 {
 "type":"1",
 "name":"VTV2",
-"linkvideo":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png",
+"linkvideo":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkweb":"http://www.tivi12h.net/2015/07/kenh-vtv2.html",
 "love":"0"
 }
