@@ -100,6 +100,6 @@
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgdes":"0",
-"linkdes":"0"
+"linkdes":"1"
 }
 ]}
