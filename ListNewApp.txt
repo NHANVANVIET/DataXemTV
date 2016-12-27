@@ -1,6 +1,6 @@
 {"ListNewApp":[
 {
-"type":"1",
+"type":"XemTiViGame",
 "name":"XEM TIVI+GAME ONLINE+NGHE RADIO",
 "linkappstore":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
 "linkimgicon":"https://github.com/NHANVANVIET/DataXemTV/blob/master/Icondaynauan.png?raw=true",
