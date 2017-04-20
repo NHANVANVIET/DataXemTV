@@ -184,7 +184,7 @@
 {
 "type":"3",
 "name":"VTVCab3-ThểThaoTV",
-"linkvideo":"http://m.tivi12h.net/thethaotv-3.php,http://m.tivi12h.net/vtvplay.php?id=thethaotvhd,http://cdn.xemtiviso.com/vtvcab.php?id=thethaotv,http://m.tivi12h.net/thethaotv.php,http://m.tivi12h.net/thethaotv-2.php,http://m.tivi12h.net/thethaotv-4.php,http://m.tivi12h.net/thethaotv-5.php",
+"linkvideo":"http://m.tivi12h.net/vtvplay.php?id=thethaotvhd,http://cdn.xemtiviso.com/vtvcab.php?id=thethaotv,http://m.tivi12h.net/thethaotv-3.php,http://m.tivi12h.net/thethaotv.php,http://m.tivi12h.net/thethaotv-2.php,http://m.tivi12h.net/thethaotv-4.php,http://m.tivi12h.net/thethaotv-5.php",
 "linkweb":"http://www.tivi12h.net/2015/08/the-thao-tv.html",
 "love":"0"
 },
@@ -198,7 +198,7 @@
 {
 "type":"3",
 "name":"VTVCab5-E Chanel",
-"linkvideo":"http://cdn.xemtiviso.com/vtvcab.php?id=echannel,http://play.xemtiviso.com/2016/06/mobi.html?id=echannel,http://m.tivi12h.net/echannel.php,http://m.tivi12h.net/echannel-2.php,http://m.tivi12h.net/echannel-3.php,http://m.tivi12h.net/echannel-4.php",
+"linkvideo":"http://m.tivi12h.net/echannel.php,http://cdn.xemtiviso.com/vtvcab.php?id=echannel,http://play.xemtiviso.com/2016/06/mobi.html?id=echannel,http://m.tivi12h.net/echannel-2.php,http://m.tivi12h.net/echannel-3.php,http://m.tivi12h.net/echannel-4.php",
 "linkweb":"http://www.tivi12h.net/2015/08/kenh-vtvcab5-e-channel.html",
 "love":"0"
 },
@@ -254,7 +254,7 @@
 {
 "type":"3",
 "name":"VTVCab16-BóngĐáTV",
-"linkvideo":"http://m.tivi12h.net/bongdatv-3.php,http://m.tivi12h.net/vtvplay.php?id=bondatvhd,http://cdn.xemtiviso.com/vtvcab.php?id=bongdatv,http://m.tivi12h.net/bongdatv.php,http://m.tivi12h.net/bongdatv-2.php,http://m.tivi12h.net/bongdatv-4.php,http://m.tivi12h.net/bongdatv-5.php",
+"linkvideo":"http://m.tivi12h.net/vtvplay.php?id=bondatvhd,http://cdn.xemtiviso.com/vtvcab.php?id=bongdatv,http://m.tivi12h.net/bongdatv-3.php,http://m.tivi12h.net/bongdatv.php,http://m.tivi12h.net/bongdatv-2.php,http://m.tivi12h.net/bongdatv-4.php,http://m.tivi12h.net/bongdatv-5.php",
 "linkweb":"http://www.tivi12h.net/2015/08/bong-da-tv.html",
 "love":"0"
 },
@@ -660,14 +660,14 @@
 {
 "type":"10",
 "name":"VOV1-Thời sự",
-"linkvideo":"http://210.245.60.242:1935/vov1/vov1/playlist.m3u8",
+"linkvideo":"http://210.245.60.242:1935/nghehevov1/vov1/playlist.m3u8",
 "linkweb":"http://vov1.vov.vn",
 "love":"0"
 },
 {
 "type":"10",
 "name":"VOV2-Văn hoá,ĐS",
-"linkvideo":"http://210.245.60.242:1935/vov2/vov2/playlist.m3u8",
+"linkvideo":"http://210.245.60.242:1935/nghehevov2/vov2/playlist.m3u8",
 "linkweb":"http://vov1.vov.vn",
 "love":"0"
 },
@@ -681,14 +681,14 @@
 {
 "type":"10",
 "name":"VOV3-Âm nhạc,GT",
-"linkvideo":"http://210.245.60.242:1935/vov3/vov3/playlist.m3u8",
+"linkvideo":"http://210.245.60.242:1935/nghehevov3/vov3/playlist.m3u8",
 "linkweb":"http://vov1.vov.vn",
 "love":"0"
 },
 {
 "type":"10",
 "name":"VOV4-Dân tộc",
-"linkvideo":"http://210.245.60.242:1935/vov4/vov4/playlist.m3u8",
+"linkvideo":"http://123.30.189.223:1935/vov4TayBac/vov4TayBac/playlist.m3u8",
 "linkweb":"http://vov1.vov.vn",
 "love":"0"
 },
