@@ -1,1 +1,1 @@
-57,75 xác xuất ra 80%
+07,08,30,34 xác xuất ra 80% đánh cả 4 con
