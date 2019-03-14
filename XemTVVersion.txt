@@ -1,1 +1,1 @@
-07,08,30,34 xác xuất ra 80% đánh cả 4 con
+83.38 xác xuất ra 60%
