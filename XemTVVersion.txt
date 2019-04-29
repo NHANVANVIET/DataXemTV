@@ -1,1 +1,1 @@
-68,86 xác xuất ra 70%
+44 xác xuất ra 60%
