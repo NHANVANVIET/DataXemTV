@@ -1,1 +1,1 @@
-http://ketqua.net/kq-mb.raw
+https://raw.githubusercontent.com/NHANVANVIET/DataXemTV/master/RawDataKQ.txt
