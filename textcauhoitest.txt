@@ -11,3 +11,10 @@ B.Bèo tổ ong
 C.Bèo hoa dâu 
 D.Bèo cái 
 Answer: C
+
+Câu 1: Đội bóng đã từng đoạt nhiều chức vô địch Copa America nhất? 
+A.Uruguay 
+B.Brazil 
+C.Achentina 
+D.Parguay 
+Answer: B
